@@ -1,0 +1,20 @@
+Projekt: Dashboard sprzedaży
+
+Narzędzia:
+
+* Power BI Desktop
+* Microsoft Excel
+
+Cel projektu:
+Stworzenie interaktywnego dashboardu prezentującego sprzedaż produktów i łączny przychód.
+
+Zakres projektu:
+
+* import danych z pliku Excel
+* utworzenie wykresu sprzedaży produktów
+* utworzenie karty KPI pokazującej łączny przychód
+* zastosowanie filtra produktu
+* wizualizacja danych sprzedażowych
+
+Wnioski:
+Dashboard umożliwia szybkie sprawdzenie sprzedaży poszczególnych produktów oraz analizę przychodów. Power BI pozwala na czytelną prezentację danych i interaktywną analizę wyników.

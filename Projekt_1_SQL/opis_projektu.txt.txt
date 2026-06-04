@@ -1,0 +1,15 @@
+
+Projekt: Baza danych sklepu internetowego
+
+Narzędzia:
+- PostgreSQL
+- DBeaver
+
+Zakres:
+- tworzenie tabel
+- dodawanie danych
+- zapytania SELECT
+- zapytania JOIN
+
+Cel:
+Analiza klientów, produktów i zamówień.

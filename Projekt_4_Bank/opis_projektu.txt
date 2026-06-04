@@ -1,0 +1,16 @@
+Projekt: Analiza klientów banku
+
+Narzędzia:
+- Excel
+- Power BI
+
+Cel:
+Analiza dochodów klientów oraz korzystania z kredytów.
+
+Zakres:
+- średni dochód według miasta
+- analiza klientów posiadających kredyt
+- dashboard KPI
+
+Wnioski:
+Najwyższe średnie dochody występowały w Krakowie, a większość klientów posiadała kredyt.
