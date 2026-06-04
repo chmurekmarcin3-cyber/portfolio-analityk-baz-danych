@@ -1,0 +1,11 @@
+Analiza cen akcji Apple, Microsoft i Nvidia wykonana w Power BI.
+
+Dashboard prezentuje:
+- maksymalne ceny akcji,
+- zmiany cen w czasie,
+- porównanie spółek technologicznych,
+- analizę historycznych danych giełdowych.
+
+Technologie:
+Excel
+Power BI
