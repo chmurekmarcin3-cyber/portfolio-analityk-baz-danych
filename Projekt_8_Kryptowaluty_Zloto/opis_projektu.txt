@@ -1,0 +1,27 @@
+PROJEKT 8 – KRYPTOWALUTY I ZŁOTO
+
+Opis projektu:
+
+Projekt został wykonany przy użyciu programu Power BI oraz Microsoft Excel. Celem projektu była analiza cen wybranych aktywów inwestycyjnych: Bitcoin (BTC), Ethereum (ETH) oraz złota.
+
+Dane zostały przygotowane w arkuszu Excel, a następnie zaimportowane do Power BI w celu stworzenia interaktywnego dashboardu.
+
+Dashboard zawiera:
+
+* analizę cen BTC, ETH i GOLD,
+* wskaźniki KPI prezentujące maksymalne wartości aktywów,
+* wykresy liniowe przedstawiające zmiany cen w czasie,
+* tabelę z danymi źródłowymi,
+* filtr dat umożliwiający analizę wybranego okresu.
+
+Umiejętności wykorzystane w projekcie:
+
+* Power BI,
+* Microsoft Excel,
+* wizualizacja danych,
+* analiza danych finansowych,
+* tworzenie dashboardów.
+
+Wnioski:
+
+Projekt pokazuje podstawowe możliwości analizy danych finansowych oraz prezentacji wyników za pomocą nowoczesnych narzędzi Business Intelligence.
