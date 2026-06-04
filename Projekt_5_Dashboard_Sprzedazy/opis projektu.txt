@@ -1,0 +1,18 @@
+Projekt 5 – Dashboard sprzedaży Power BI
+
+Cel projektu:
+Analiza sprzedaży produktów w różnych regionach Polski.
+
+Wykorzystane narzędzia:
+- Power BI
+- Excel
+
+Wizualizacje:
+- Sprzedaż według produktu
+- Sprzedaż według regionu
+- Łączna wartość sprzedaży
+
+Wnioski:
+Największą sprzedaż osiągnęły laptopy.
+Najwyższe wyniki sprzedaży odnotowano w Krakowie i Poznaniu.
+Łączna sprzedaż wyniosła około 32 tys.
