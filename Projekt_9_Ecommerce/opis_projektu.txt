@@ -1,0 +1,10 @@
+Analiza sprzedaży sklepu internetowego wykonana w Power BI.
+
+Dashboard prezentuje:
+- łączny przychód,
+- liczbę sprzedanych produktów,
+- przychód według kategorii,
+- przychód według miasta,
+- szczegółową tabelę sprzedaży.
+
+Technologie: Excel, Power BI.
