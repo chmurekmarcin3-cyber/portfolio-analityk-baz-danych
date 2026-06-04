@@ -1,4 +1,4 @@
-# portfolio-analityk-baz-danych
+
 # Portfolio Analityka Baz Danych
 
 Cześć! Nazywam się Marcin Chmurek.
