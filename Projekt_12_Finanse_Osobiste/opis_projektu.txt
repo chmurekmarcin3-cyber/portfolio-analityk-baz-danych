@@ -1,0 +1,20 @@
+PROJEKT 12 – FINANSE OSOBISTE
+
+Projekt został wykonany w Microsoft Excel oraz Power BI.
+
+Celem projektu była analiza przychodów i wydatków oraz wizualizacja przepływów finansowych.
+
+Dashboard zawiera:
+
+- podsumowanie przychodów,
+- podsumowanie wydatków,
+- strukturę wydatków według kategorii,
+- analizę finansów w czasie,
+- interaktywne filtry.
+
+Wykorzystane umiejętności:
+
+- Power BI,
+- Excel,
+- wizualizacja danych,
+- analiza finansowa.
