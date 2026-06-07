@@ -1,0 +1,21 @@
+PROJEKT 14 – MARKETING
+
+Projekt został wykonany w Microsoft Excel oraz Power BI.
+
+Celem projektu była analiza skuteczności kampanii marketingowych oraz wizualizacja podstawowych wskaźników marketingowych.
+
+Dashboard umożliwia:
+
+- analizę wyświetleń,
+- analizę kliknięć,
+- analizę konwersji,
+- porównanie kampanii marketingowych,
+- monitorowanie wyników w czasie.
+
+Wykorzystane umiejętności:
+
+- Power BI,
+- Excel,
+- analiza danych marketingowych,
+- wizualizacja danych,
+- tworzenie dashboardów biznesowych.
