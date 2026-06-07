@@ -1,0 +1,21 @@
+PROJEKT 15 – KPI FIRMY
+
+Projekt został wykonany w Microsoft Excel oraz Power BI.
+
+Celem projektu była analiza kluczowych wskaźników biznesowych przedsiębiorstwa.
+
+Dashboard umożliwia:
+
+* monitorowanie przychodów,
+* analizę kosztów,
+* analizę liczby klientów,
+* obserwację zmian wskaźników w czasie,
+* filtrowanie danych według dat.
+
+Wykorzystane umiejętności:
+
+* Power BI,
+* Excel,
+* analiza danych biznesowych,
+* wizualizacja danych,
+* tworzenie dashboardów KPI.
