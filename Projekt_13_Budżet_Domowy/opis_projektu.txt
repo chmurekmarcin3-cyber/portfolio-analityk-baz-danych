@@ -1,0 +1,20 @@
+PROJEKT 13 – BUDŻET DOMOWY
+
+Projekt został wykonany w Microsoft Excel oraz Power BI.
+
+Celem projektu była analiza wydatków gospodarstwa domowego oraz identyfikacja głównych kategorii kosztów.
+
+Dashboard umożliwia:
+
+- analizę wydatków stałych i zmiennych,
+- analizę struktury kosztów,
+- monitorowanie wydatków w czasie,
+- filtrowanie danych według kategorii i dat.
+
+Wykorzystane umiejętności:
+
+- Power BI,
+- Excel,
+- wizualizacja danych,
+- analiza finansowa,
+- tworzenie dashboardów.
