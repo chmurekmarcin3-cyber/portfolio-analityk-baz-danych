@@ -1,0 +1,24 @@
+PROJEKT 16 – SQL ECOMMERCE ADVANCED
+
+Projekt został wykonany przy użyciu PostgreSQL, DBeaver oraz Power BI.
+
+Celem projektu było stworzenie kompletnego procesu analizy danych:
+
+1. Utworzenie bazy danych.
+2. Wprowadzenie danych.
+3. Analiza danych przy użyciu SQL.
+4. Budowa dashboardu Power BI.
+5. Publikacja projektu w portfolio.
+
+W projekcie wykorzystano:
+
+* JOIN
+* LEFT JOIN
+* CASE WHEN
+* CTE
+* ROW_NUMBER()
+* RANK()
+* SUM() OVER()
+* AVG() OVER()
+
+Projekt rozwija umiejętności analizy danych, raportowania oraz pracy z relacyjnymi bazami danych wykorzystywanymi w środowisku biznesowym.
